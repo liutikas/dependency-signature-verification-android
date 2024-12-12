@@ -9,6 +9,7 @@ appcompat = "1.7.0"
 material = "1.12.0"
 
 [libraries]
+androidx-annotation-experimental = { group = "androidx.annotation", name = "annotation-experimental", version = "1.4.1" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
